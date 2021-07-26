@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu.csproj": {}
+    "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu\\pendu.csproj": {}
   },
   "projects": {
-    "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu.csproj": {
+    "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu\\pendu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu.csproj",
+        "projectUniqueName": "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu\\pendu.csproj",
         "projectName": "pendu",
-        "projectPath": "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu.csproj",
+        "projectPath": "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu\\pendu.csproj",
         "packagesPath": "C:\\Users\\ti-yo\\.nuget\\packages\\",
-        "outputPath": "F:\\Udemy\\CSharp\\pendu\\pendu\\obj\\",
+        "outputPath": "F:\\Udemy\\CSharp\\pendu\\pendu\\pendu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
